@@ -1,7 +1,7 @@
 demo.cardlistview
 =================
 
-![alt tag](https://github.com/elcrion/demo.cardlistview/blob/master/screen.png)
+![alt tag](https://github.com/elcrion/demo.cardlistview/blob/master/screen.png?raw=true)
 
 
 
