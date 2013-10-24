@@ -44,4 +44,5 @@ To set up the listview follow this steps :
 
 to ListView elements
  
+This approach is compatible with android 2.3 and older 
 
