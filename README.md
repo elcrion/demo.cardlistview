@@ -33,7 +33,9 @@ To set up the listview follow this steps :
 
 </LinearLayout>
 
-2.Add   android:divider="@android:color/transparent"
+2.Add   
+
+        android:divider="@android:color/transparent"
         android:dividerHeight="1dip"
 
 to ListView elements
