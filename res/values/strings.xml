@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CardList</string>
+    <color name="bgCval">#f2f2f2</color>
+    <color name="bmPri">#8cc63f</color>
+    <color name="bmSec">#b6d886</color>
+    <color name="bmText">#000</color>
+    <color name="bmBg">#f2f2f2</color>
+    <color name="meGreyBg">#555</color>
+    <color name="meLightFg">#FFF</color>
+  
+      <color name="meLightFgG">#d3d3d3</color>
+</resources>
