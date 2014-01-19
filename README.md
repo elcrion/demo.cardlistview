@@ -10,7 +10,7 @@ In order this project to work use QuickAction (https://github.com/lorensiuswlt/N
 
 To set up the listview follow this steps : 
 
-1.Add "@drawable/rowshadow" as a bacground to row element of your list and make padding to the item, like this : 
+1.Add "@drawable/rowshadow" as a background to row element of your list and make padding to the item, like this : 
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
